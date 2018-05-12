@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1016
     wikipedia: http://en.wikipedia.org/wiki/Ford_Madox_Ford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42801#The-Young-LovellA-Romance
 gutenberg_issued: '2013-05-24'
 gutenberg_type: Text
 identifiers:
